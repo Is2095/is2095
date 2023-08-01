@@ -4,18 +4,20 @@
   
 
 ### <div align="center">Soy Ismael Diaz, un full-stack  developer, apasionado del código y de las buenas prácticas</div>  
+<br/>  
+<br/>  
 
   ### <div align="start">Acerca de mí:</div>  
 
-Luego de varias trabajos en forma dependiente y de hace 2 años de dirigir un emprendimiento familiar, he adquirido la habilidad de trabajar tanto en grupo como en forma individual. 
-Mi idea de ir aprendiendo en forma continua, me llevo a este mundo del desarrollo web, y así formar los conocimientos que hoy día he logrado, y que quiero ir incrementando.
+  Luego de varias trabajos en forma dependiente y de hace 2 años de dirigir un emprendimiento familiar, he adquirido la habilidad de trabajar tanto en grupo como en forma individual. 
+  Mi idea de ir aprendiendo en forma continua, me llevo a cumplir una materia pendiente en mi vida, el mundo del desarrollo web, así, en este último tiempo, he ido ampliando y actualizando mis conocimientos, y que segue ampliando, en más.
 
   
   ### <div align="start">Proyecto actual:</div>
 
  Actualmente, con un grupo de trabajo, estamos desarrollando una aplicación de e-commerce: "Parcels", la cual nos ayuda a afirmar conocimiento he ir implementando tecnologías nuevas.
 
- ### <div align="start"> Objetivos::</div>
+ ### <div align="start"> Objetivos:</div>
 
  Mi objetivo actual es poner en práctica y darle buena utilidad a mis conocimientos, y poner a disposición esos resultados.
  Seguir ampliando mis conocimientos
@@ -60,6 +62,7 @@ Mi idea de ir aprendiendo en forma continua, me llevo a este mundo del desarroll
 
 </td></tr></table>  
 
+<br/>  
 <br/>  
 
 
