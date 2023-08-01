@@ -1,12 +1,9 @@
  
 <br/>  
-<br/>  
 
 ### <div align="center">Soy Ismael Diaz, un full-stack  developer, apasionado del código y de las buenas prácticas</div>  
 <br/>  
-<br/>  
-<br/>  
-
+<br/> 
   ### <div align="start">Acerca de mí:</div>  
 
   Luego de varias trabajos en forma dependiente y de hace 2 años de dirigir un emprendimiento familiar, he adquirido la habilidad de trabajar tanto en grupo como en forma individual. 
