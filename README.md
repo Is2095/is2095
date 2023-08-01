@@ -5,8 +5,18 @@
 
 ### <div align="center">Soy Ismael Diaz, un full-stack  developer, apasionado del código y de las buenas prácticas</div>  
   
+Acerca de mí:
+Luego de varias trabajos en forma dependiente y de hace 2 años de dirigir un emprendimiento familiar, he adquirido la habilidad de trabajar tanto en grupo como en forma individual. 
+Mi idea de ir aprendiendo en forma continua, me llevo a este mundo del desarrollo web, y así formar los conocimientos que hoy día he logrado, y que quiero ir incrementando.
 
-- 🔭 Actualmente, con un grupo de trabajo, desarrollando una aplicación de e-commerce: "Parcels"  
+Proyecto actual: 
+
+ Actualmente, con un grupo de trabajo, estamos desarrollando una aplicación de e-commerce: "Parcels", la cual nos ayuda a afirmar conocimiento he ir implementando tecnologías nuevas.
+
+ Objetivos:
+
+ Mi objetivo actual es poner en práctica y darle buena utilidad a mis conocimientos, y poner a disposición esos resultados.
+ Seguir ampliando mis conocimientos
   
 
 - ❓ Quieres saber más de mí, te invito a que me contactes  
