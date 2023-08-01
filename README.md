@@ -1,8 +1,8 @@
  
+<br/>  
+<br/>  
 
 ### <div align="center">Soy Ismael Diaz, un full-stack  developer, apasionado del código y de las buenas prácticas</div>  
-<br/>  
-<br/>  
 <br/>  
 <br/>  
 <br/>  
