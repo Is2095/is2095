@@ -1,9 +1,9 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+ 
 
 ### <div align="center">Soy Ismael Diaz, un full-stack  developer, apasionado del código y de las buenas prácticas</div>  
+<br/>  
+<br/>  
+<br/>  
 <br/>  
 <br/>  
 
