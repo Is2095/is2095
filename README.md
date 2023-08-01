@@ -5,22 +5,20 @@
 
 ### <div align="center">Soy Ismael Diaz, un full-stack  developer, apasionado del código y de las buenas prácticas</div>  
 
-  ### <div align="start">Acerca de mí:</div> 
+  ### <div align="start">Acerca de mí:</div>  
 
 Luego de varias trabajos en forma dependiente y de hace 2 años de dirigir un emprendimiento familiar, he adquirido la habilidad de trabajar tanto en grupo como en forma individual. 
 Mi idea de ir aprendiendo en forma continua, me llevo a este mundo del desarrollo web, y así formar los conocimientos que hoy día he logrado, y que quiero ir incrementando.
 
-Proyecto actual: 
+  
+  ### <div align="start">Proyecto actual:</div>
 
  Actualmente, con un grupo de trabajo, estamos desarrollando una aplicación de e-commerce: "Parcels", la cual nos ayuda a afirmar conocimiento he ir implementando tecnologías nuevas.
 
- Objetivos:
+ ### <div align="start"> Objetivos::</div>
 
  Mi objetivo actual es poner en práctica y darle buena utilidad a mis conocimientos, y poner a disposición esos resultados.
  Seguir ampliando mis conocimientos
-  
-
-- ❓ Quieres saber más de mí, te invito a que me contactes  
   
 
 <br/>  
@@ -74,26 +72,6 @@ Proyecto actual:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
   
 
 <br/>  
