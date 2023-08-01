@@ -24,7 +24,7 @@ Mi idea de ir aprendiendo en forma continua, me llevo a este mundo del desarroll
 <br/>  
 
 
-## My Skill Set  
+## Mi conjunto de habilidades  
 <table><tr><td valign="top" width="33%">
 
 
@@ -63,7 +63,7 @@ Mi idea de ir aprendiendo en forma continua, me llevo a este mundo del desarroll
 <br/>  
 
 
-## Connect with me  
+## No dudes de contactarme:  
 <div align="center">
 <a href="https://github.com/is2095" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -77,13 +77,5 @@ Mi idea de ir aprendiendo en forma continua, me llevo a este mundo del desarroll
 <br/>  
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-  Si quieres saber más de mí, no dudes de contactarme:
-
-     correo electrónico: ismael2095951@gmail.com  
-     LinkedIn: https://www.linkedin.com/in/ismael-diaz-3b440b27a/
   
